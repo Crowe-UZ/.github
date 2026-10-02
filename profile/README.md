@@ -1,16 +1,51 @@
 <div align="center">
 
-<img src="Crowe_LLP_Logo.png" width="240" alt="Crowe">
+<br>
+
+<img src="Crowe_LLP_Logo.png" width="220" alt="Crowe">
+
+<br><br>
 
 # Crowe-UZ
 
-### We build things we would want to use ourselves.
-
-Software, tools, and ideas from our team in Uzbekistan.
+### Technology, built with purpose.
 
 <br>
 
-[![Repositories](https://img.shields.io/badge/Explore%20our-repositories-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Crowe-UZ?tab=repositories)
+**Software · Products · Infrastructure · Ideas**
+
+<br><br>
+
+</div>
+
+---
+
+<br>
+
+## We build.
+
+Crowe-UZ is a technology company based in Uzbekistan.
+
+We build software for people, businesses, and the things that happen between them.
+
+Some of our work becomes a product.
+Some becomes infrastructure.
+Some stays an experiment.
+
+We share the parts that are useful.
+
+<br>
+
+---
+
+<div align="center">
+
+### A few things we care about
+
+**Good software.**
+**Thoughtful design.**
+**Useful ideas.**
+**People who build.**
 
 </div>
 
@@ -18,118 +53,79 @@ Software, tools, and ideas from our team in Uzbekistan.
 
 ---
 
-## Hey 👋
-
-We're a small team that likes building things.
-
-Sometimes it's a product.
-Sometimes it's a developer tool.
-Sometimes it's a tiny script that saves someone an hour every week.
-
-We put some of those things here.
-
-Most of our work starts with a simple question:
-
-> **"Wouldn't it be better if this just worked?"**
-
-So we try to make it work.
-
----
-
-## What you'll find here
-
-🛠️ **Tools we build**
-
-Things that make our everyday work a little easier.
-
-🌐 **Open source projects**
-
-Software we're happy to share with other developers.
-
-🧪 **Things we're trying**
-
-Not everything starts with a finished plan. Some projects are simply ideas worth exploring.
-
-📦 **Things we actually use**
-
-The best test for a tool is whether we'd still use it ourselves.
-
----
-
-## A few of our projects
+## Our work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### BrowserMesh
+### Products
 
-A lightweight browser runtime that lets AI clients work with multiple isolated browser sessions through MCP.
+Things people can actually use.
 
-→ **[View project](https://github.com/Crowe-UZ)**
+We care about the details — from the first screen to the last request.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### More coming
+### Technology
 
-We don't want to fill this page with projects just for the sake of having a long list.
+Infrastructure and software that quietly make everything else possible.
 
-When something is ready, it'll be here.
+</td>
+
+<td width="33%" valign="top">
+
+### Open source
+
+When something can be useful outside our walls, we share it.
 
 </td>
 </tr>
 </table>
 
----
-
-## How we work
-
-We like simple things.
-
-Small commits.
-Clear code.
-Useful documentation.
-Automation where it actually helps.
-And fixing things instead of explaining why they can't be fixed.
-
-We don't believe every project needs a complicated architecture.
-
-Sometimes the best solution is the boring one.
+<br>
 
 ---
 
-## Open source ❤️
+## Around here
 
-Everything here is shared because we think someone else might find it useful.
+```text
+Tashkent, Uzbekistan
 
-If you find a bug — tell us.
+→ building
+→ learning
+→ shipping
+→ doing it again
+```
 
-If something can be better — show us.
+We're a team of people who like making things.
 
-If you build something on top of our work — we'd genuinely like to see it.
+There isn't always a grand strategy behind a project.
 
-**Issues, pull requests, and ideas are welcome.**
+Sometimes someone has an idea on Monday,
+builds it on Tuesday,
+and by Friday we're wondering how we worked without it.
 
----
-
-## From Uzbekistan 🇺🇿
-
-We're building from Uzbekistan and sharing what we make with the rest of the world.
-
-<div align="center">
+That's usually how the interesting things start.
 
 <br>
 
-**Made with curiosity, coffee, and a lot of `git push`.**
+---
+
+<div align="center">
+
+## Come take a look.
+
+<br>
+
+[ **Repositories →** ](https://github.com/Crowe-UZ?tab=repositories)
 
 <br><br>
 
-[**Crowe-UZ on GitHub →**](https://github.com/Crowe-UZ?tab=repositories)
+<sub>Built in Uzbekistan · Shared with the world</sub>
 
 <br><br>
-
-<sub>© Crowe-UZ</sub>
 
 </div>
