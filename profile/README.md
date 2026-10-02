@@ -1,98 +1,74 @@
 <div align="center">
 
-<br>
-
 <img src="Crowe_LLP_Logo.png" width="230" alt="Crowe">
 
-<br><br>
+# Crowe Uzbekistan
 
-# Crowe
+**Smart decisions. Lasting value.**
 
-### We make software for people who make things.
+Audit · Tax · Consulting · Financial Advisory
 
-<br>
-
-[Website](#)    [GitHub](https://github.com/Crowe-UZ)    [Contact](#)
-
-<br>
+[Website](https://www.crowe.com/uz) · [LinkedIn](https://www.linkedin.com/company/crowe-uz) · [Repositories](https://github.com/Crowe-UZ?tab=repositories)
 
 </div>
 
 ---
 
-<br>
+### About Crowe Uzbekistan
 
-## What we do
+Crowe Uzbekistan is a member firm of **Crowe Global**, providing audit, tax, consulting and financial advisory services in Uzbekistan.
 
-We build software, products, and tools for real-world problems.
+We combine international standards with deep local knowledge to help businesses navigate change, manage risk and make better decisions.
 
-Some are made for our own work.
-Some are built for our clients.
-And some become things we're happy to share with everyone.
+### What we do
 
-We care about making software that feels **simple, useful, and well-made**.
+**Audit & Assurance**
+Independent financial audits and assurance, including IFRS, supported by analytics and modern tools.
 
-<br>
+**Tax & Legal**
+Tax planning, compliance, transfer pricing and support with regulatory matters.
 
----
+**Consulting & Advisory**
+Strategy, risk, governance, digital transformation and operational improvement.
 
-## Our work
-
-<div align="center">
-
-|                    |                                                      |
-| :----------------- | :--------------------------------------------------- |
-| **Products**       | Software built around real problems and real people. |
-| **Tools**          | Small things that make difficult work easier.        |
-| **Infrastructure** | The systems that keep everything running.            |
-| **Open Source**    | Projects we believe are worth sharing.               |
-
-</div>
-
-<br>
+**Corporate Finance**
+Support with transactions, capital and financial decisions.
 
 ---
 
-## A place for good work
+### Our technology
 
-We don't try to build everything.
+Technology is part of how we work.
 
-We look for interesting problems, understand them, and build the simplest thing that can solve them well.
+This GitHub organization is where we share selected software, tools and technical work created by our teams.
 
-That usually means:
-
-**less noise · fewer layers · better software**
-
-<br>
+Not everything we build belongs here.
+The things that do are here because we believe they can be useful beyond our own work.
 
 ---
 
-## Open source
+### Crowe Global
 
-Some of the things we build are useful outside of Crowe too.
+**35,000+ people · 750+ offices · 150 countries**
 
-When that happens, we open them up.
-
-You can explore our public repositories, use what you find, open an issue, or contribute.
-
-<div align="center">
-
-**[Explore our repositories →](https://github.com/Crowe-UZ?tab=repositories)**
-
-</div>
-
-<br>
+Crowe Global is an international network of independent accounting and consulting firms. Crowe Uzbekistan is part of that global network while operating as a separate local member firm.
 
 ---
 
 <div align="center">
 
-### Built in Uzbekistan 🇺🇿
+### Crowe Uzbekistan 🇺🇿
 
-**Made by people who care about what they build.**
+Tashkent, Uzbekistan
+
+**Smart decisions. Lasting value.**
 
 <br>
 
-<sub>© Crowe-UZ</sub>
+[Explore our repositories →](https://github.com/Crowe-UZ?tab=repositories)
+
+<br>
+
+<sub>© Crowe Uzbekistan</sub>
 
 </div>
