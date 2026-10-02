@@ -2,19 +2,19 @@
 
 <br>
 
-<img src="Crowe_LLP_Logo.png" width="220" alt="Crowe">
+<img src="Crowe_LLP_Logo.png" width="230" alt="Crowe">
 
 <br><br>
 
-# Crowe-UZ
+# Crowe
 
-### Technology, built with purpose.
+### We make software for people who make things.
 
 <br>
 
-**Software · Products · Infrastructure · Ideas**
+[Website](#)    [GitHub](https://github.com/Crowe-UZ)    [Contact](#)
 
-<br><br>
+<br>
 
 </div>
 
@@ -22,32 +22,15 @@
 
 <br>
 
-## We build.
+## What we do
 
-Crowe-UZ is a technology company based in Uzbekistan.
+We build software, products, and tools for real-world problems.
 
-We build software for people, businesses, and the things that happen between them.
+Some are made for our own work.
+Some are built for our clients.
+And some become things we're happy to share with everyone.
 
-Some of our work becomes a product.
-Some becomes infrastructure.
-Some stays an experiment.
-
-We share the parts that are useful.
-
-<br>
-
----
-
-<div align="center">
-
-### A few things we care about
-
-**Good software.**
-**Thoughtful design.**
-**Useful ideas.**
-**People who build.**
-
-</div>
+We care about making software that feels **simple, useful, and well-made**.
 
 <br>
 
@@ -55,60 +38,48 @@ We share the parts that are useful.
 
 ## Our work
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<div align="center">
 
-### Products
+|                    |                                                      |
+| :----------------- | :--------------------------------------------------- |
+| **Products**       | Software built around real problems and real people. |
+| **Tools**          | Small things that make difficult work easier.        |
+| **Infrastructure** | The systems that keep everything running.            |
+| **Open Source**    | Projects we believe are worth sharing.               |
 
-Things people can actually use.
-
-We care about the details — from the first screen to the last request.
-
-</td>
-
-<td width="33%" valign="top">
-
-### Technology
-
-Infrastructure and software that quietly make everything else possible.
-
-</td>
-
-<td width="33%" valign="top">
-
-### Open source
-
-When something can be useful outside our walls, we share it.
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
 ---
 
-## Around here
+## A place for good work
 
-```text
-Tashkent, Uzbekistan
+We don't try to build everything.
 
-→ building
-→ learning
-→ shipping
-→ doing it again
-```
+We look for interesting problems, understand them, and build the simplest thing that can solve them well.
 
-We're a team of people who like making things.
+That usually means:
 
-There isn't always a grand strategy behind a project.
+**less noise · fewer layers · better software**
 
-Sometimes someone has an idea on Monday,
-builds it on Tuesday,
-and by Friday we're wondering how we worked without it.
+<br>
 
-That's usually how the interesting things start.
+---
+
+## Open source
+
+Some of the things we build are useful outside of Crowe too.
+
+When that happens, we open them up.
+
+You can explore our public repositories, use what you find, open an issue, or contribute.
+
+<div align="center">
+
+**[Explore our repositories →](https://github.com/Crowe-UZ?tab=repositories)**
+
+</div>
 
 <br>
 
@@ -116,16 +87,12 @@ That's usually how the interesting things start.
 
 <div align="center">
 
-## Come take a look.
+### Built in Uzbekistan 🇺🇿
+
+**Made by people who care about what they build.**
 
 <br>
 
-[ **Repositories →** ](https://github.com/Crowe-UZ?tab=repositories)
-
-<br><br>
-
-<sub>Built in Uzbekistan · Shared with the world</sub>
-
-<br><br>
+<sub>© Crowe-UZ</sub>
 
 </div>
